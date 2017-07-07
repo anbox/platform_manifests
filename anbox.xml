@@ -10,6 +10,10 @@
     <remove-project name="platform/hardware/libhardware_legacy" />
     <remove-project name="platform/system/core" />
     <remove-project name="platform/system/netd" />
+    <remove-project name="device/generic/x86" />
+    <remove-project name="device/generic/x86_64" />
+    <remove-project name="device/generic/goldfish" />
+    <remove-project name="device/generic/goldfish-opengl" />
 
     <!-- These are all Android repositories we have modifications for -->
     <project path="bionic" name="platform_bionic" groups="pdk" remote="anbox" />
