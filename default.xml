@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="anbox" fetch="https://github.com/pmanbox/" revision="anbox/rebase" />
+  <remote  name="anbox" fetch="https://github.com/pmanbox/" revision="anbox/master" />
 
   <remote  name="aosp"
            revision="refs/tags/android-7.1.2_r39"
