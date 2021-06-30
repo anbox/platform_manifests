@@ -4,7 +4,7 @@
 
   <remote  name="aosp"
            revision="refs/tags/android-7.1.1_r13"
-           fetch="https://android.googlesource.com/" />
+           fetch="https://mirrors.ustc.edu.cn/aosp/" />
 
   <default revision="refs/tags/android-7.1.1_r13"
            remote="aosp"
